@@ -1,0 +1,84 @@
+/* 5 minute style sheets here we go */
+
+hr{
+  border-color: #f5bc2f;
+}
+
+body,
+html{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+
+  background: #4D0A00;
+  color: #F18D00;
+}
+
+.daddy-container{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.top-field{
+  padding-top: 30px;
+  text-align: center;
+
+  /* Give our boxes some space below */
+  padding-bottom: 30px;
+}
+
+.left-field{
+  float: left;
+  text-align: center;
+
+  background: #610000;
+
+  /* Make sure they're the same size :) */
+  width: 600px;
+  min-width: 600px;
+  max-width: 600px;
+  height: 400px;
+  max-height: 400px;
+  min-height: 400px;
+  -webkit-box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+  -moz-box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+  box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+}
+
+.right-field{
+  float: right;
+  text-align: center;
+
+  background: #610000;
+
+  /* Make sure they're the same size :) */
+  width: 600px;
+  min-width: 600px;
+  max-width: 600px;
+  height: 400px;
+  max-height: 400px;
+  min-height: 400px;
+  -webkit-box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+  -moz-box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+  box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+}
+
+#box-text{
+  margin: 0;
+}
+
+/* hey are you a dankrp coder? wanna make a shitty ugly ass progress bar at the bottom? then use this gay shit */
+/* imo I hate progress bars so you're on your own with making it*/
+.progress-field{
+  text-align: center;
+
+  background: #610000;
+
+  width: 100%;
+
+  padding: 5px;
+
+  -webkit-box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+  -moz-box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+  box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.69);
+}
