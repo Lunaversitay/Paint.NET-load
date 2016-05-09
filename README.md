@@ -12,3 +12,6 @@ atomik - no reason at all
 
 #Remember
 Use ?steamid=%s in your sv_loadingurl cause shit won't work if you don't.
+
+#OCD?
+Too bad, I didn't use any word-wrap at all ;)
